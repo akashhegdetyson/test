@@ -7,4 +7,5 @@ print(2)
 
 print('hi')
 hey
+hi
 
