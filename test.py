@@ -9,9 +9,13 @@ print('hi')
 hey
 hi
 
+<<<<<<< HEAD
 print('heyyy')
 print('line 13')
 print('line 14')
 print('on')
 print('line 15')
 print('hi')
+=======
+print('heyyy')
+>>>>>>> master
